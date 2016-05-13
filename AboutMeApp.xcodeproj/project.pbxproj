@@ -101,6 +101,8 @@
 		3C84C2011C3D9A9A004C3F2D /* AboutMeApp */ = {
 			isa = PBXGroup;
 			children = (
+				3C84C2361C3D9B69004C3F2D /* View */,
+				3C84C2351C3D9B5F004C3F2D /* Controller */,
 				3C84C2051C3D9A9A004C3F2D /* AppDelegate.h */,
 				3C84C2061C3D9A9A004C3F2D /* AppDelegate.m */,
 				3C84C2081C3D9A9A004C3F2D /* ViewController.h */,
@@ -138,6 +140,20 @@
 				3C84C2291C3D9A9B004C3F2D /* Info.plist */,
 			);
 			path = AboutMeAppUITests;
+			sourceTree = "<group>";
+		};
+		3C84C2351C3D9B5F004C3F2D /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		3C84C2361C3D9B69004C3F2D /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
